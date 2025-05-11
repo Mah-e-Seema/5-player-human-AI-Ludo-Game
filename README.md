@@ -10,13 +10,13 @@ This project is an innovative twist on the traditional Ludo board game, reimagin
 
 ♟️ Game Innovations:
 
--5-player support with a pentagonal board layout.
+5-player support with a pentagonal board layout.
 
--3 tokens per player for faster pacing.
+3 tokens per player for faster pacing.
 
--Special tiles with power-ups (Double Roll, Safe Zone).
+Special tiles with power-ups (Double Roll, Safe Zone).
 
--New win condition: secure 2 tokens at home before others.
+New win condition: secure 2 tokens at home before others.
 
 
 🚀 Features
