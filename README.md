@@ -4,6 +4,7 @@ This project is an innovative twist on the traditional Ludo board game, reimagin
 📌 Project Highlights
 
 🧠 AI-Powered Gameplay: Uses a modified Minimax algorithm with Alpha-Beta Pruning to handle multi-player decision-making.
+
 🕹️ Interactive GUI: Built using Pygame for dynamic animations and a visually engaging experience.
 
 ♟️ Game Innovations:
